@@ -8,9 +8,20 @@ El trabajo se realiza en el marco del curso de Redes Neuronales, con énfasis en
 
 ---
 
+## 👥 Integrantes
+
+- Santiago García Rodriguez
+- Maria Paula Carvajal
+- Diana Barrero Malagon
+- Johan Albarracin Gomez
+Curso de Redes Neuronales - Grupo 2 – 2026
+
+---
+
 ## 📊 Dataset
 
-Se utiliza el dataset público **“Alzheimer’s Disease Dataset”** disponible en Kaggle.
+Se utiliza el dataset público **“Alzheimer’s Disease Dataset”** disponible en Kaggle
+https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data 
 
 Características principales:
 
