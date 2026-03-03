@@ -1,4 +1,4 @@
-# 🧠 Clasificación de Enfermedad de Alzheimer usando Redes Neuronales Poco Profundas y Profundas
+# 🧠 Clasificación de Enfermedad de Alzheimer usando Redes Neuronales Shallow vs Deep Neural Networks
 
 ## 📌 Descripción del Proyecto
 
